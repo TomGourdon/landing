@@ -1,0 +1,16 @@
+.banner {
+  background-image: url(/landing/images/background.png);
+  background-size: cover;
+  background-position: center;
+  padding: 200px 0;
+}
+
+.banner h1 {
+  font-size: 32px;
+  color: #FFFFFF;
+}
+
+.banner p {
+  font-size: 20px;
+  color: #BBC3CF;
+}
